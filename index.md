@@ -1,4 +1,6 @@
 <link rel="stylesheet" href="assets/css/style.css">
+<div class="container">
+ <img src="BANNER.png" alt="Chukwuemeka Ezeliora Banner" class="banner">
 
 # 👋 Hi, I'm Chukwuemeka Ezeliora
 
