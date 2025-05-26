@@ -9,7 +9,7 @@ Currently, I'm working on my project — a **Cloud-Based Continuous Monitoring S
 ---
 
 ## 💼 Featured Projects
-
+ 
 ### 🧠 [VeriCapture](https://github.com/VeriCapture-source-codes/VERICAPTURE-MAIN)
 A misinformation detection tool that uses a full-stack architecture deployed to AWS, with CI/CD pipelines built using GitHub Actions.
 
