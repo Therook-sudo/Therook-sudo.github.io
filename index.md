@@ -1,4 +1,3 @@
-![Chukwuemeka's Portfolio Banner](BANNER.png)
 
 # 👋 Hi, I'm Chukwuemeka Ezeliora
 
