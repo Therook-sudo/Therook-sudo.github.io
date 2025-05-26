@@ -5,5 +5,24 @@ url: "https://github.com/Therook-sudo/Therook-sudo.github.io"
 github_username: Therook-sudo
 
 theme: jekyll-theme-minimal
-logo: /assets/img/avatar.png
+logo: BANNER.png
 show_downloads: false
+
+# Link to your custom CSS
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/minimal@v0.2.0
+sass:
+  style: compressed
+
+# Include custom CSS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      stylesheets:
+        - /assets/css/style.css
