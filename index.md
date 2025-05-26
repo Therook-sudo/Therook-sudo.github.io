@@ -42,3 +42,9 @@ This GitHub Pages portfolio, showcasing my skills and project experience.
 - 💻 [GitHub](https://github.com/Therook-sudo)
 
 > I'm currently open to internship and junior-level DevOps roles. Let's build something awesome together!
+> </div>
+
+<footer>
+  <p>&copy; 2025 Chukwuemeka Ezeliora | <a href="https://github.com/Therook-sudo">GitHub</a></p>
+</footer>
+
