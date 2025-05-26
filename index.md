@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="assets/css/style.css">
-![Banner](BANNER.png)
 
 # 👋 Hi, I'm Chukwuemeka Ezeliora
 
