@@ -1,3 +1,5 @@
+![Chukwuemeka's Portfolio Banner](BANNER.png)
+
 # 👋 Hi, I'm Chukwuemeka Ezeliora
 
 I'm a final-year Computer Science student and aspiring Cloud & DevOps Engineer. I have hands-on experience deploying full-stack applications, building CI/CD pipelines, and implementing cloud infrastructure using tools like **AWS**, **Docker**, **GitHub Actions**, **Terraform** and **kubernetes**.
